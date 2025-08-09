@@ -10,4 +10,6 @@ It performs basic mathematical operations like **Addition**, **Subtraction**, **
 - Works in all modern browsers  
 - Easy to use and lightweight
 
-<img src = "">
+  
+<a href = "">Explore This </a>
+<img src = "https://github.com/aks3591/Basic-Math-Calculator/blob/main/screenshot.png">
